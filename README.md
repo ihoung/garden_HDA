@@ -1,2 +1,2 @@
 # garden_HDA
-The assignment work of course "CGI Tools"
+The Houdini assignment of course "CGI Tools"
